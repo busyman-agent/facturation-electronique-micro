@@ -1,14 +1,16 @@
 ---
 layout: default
-title: "Facturation électronique micro-entrepreneur : faut-il payer ? (2026-2027)"
-description: "Franchise en base, un seul client : êtes-vous vraiment obligé de payer une plateforme pour la facturation électronique ? Dates officielles, options gratuites comparées, réponse claire."
+title: "Facturation électronique auto-entrepreneur : obligatoire, gratuit ou payant ? (2026-2027)"
+description: "Facturation électronique : obligatoire pour tous les auto-entrepreneurs dès 2026-2027, mais pas toujours payante. Plateformes gratuites comparées (Tiime, Indy), dates officielles, franchise en base."
 lang: fr
 ---
-# Facturation électronique : dois-je vraiment payer une plateforme si je suis micro-entrepreneur ?
+# Facturation électronique auto-entrepreneur : obligatoire, gratuit ou payant ? (2026-2027)
 
 **Réponse courte : non, pas forcément.** La loi vous oblige à passer par une plateforme agréée pour recevoir puis émettre vos factures, mais plusieurs proposent un abonnement gratuit et illimité tant que vous n'avez pas besoin de fonctions avancées (comptabilité automatisée, déclarations pré-remplies). Être en franchise en base de TVA ne vous exempte pas de la réforme : l'obligation tient au fait d'être une entreprise française, pas à votre statut TVA. Avec un ou deux clients et peu de factures par mois, un plan gratuit suffit dans la majorité des cas.
 
-## Qui est concerné, et à partir de quand
+## Facturation électronique : dois-je vraiment payer une plateforme si je suis micro-entrepreneur ?
+
+## Facturation électronique auto-entrepreneur : suis-je vraiment obligé, et à partir de quand ?
 
 - **1er septembre 2026** : toutes les entreprises, quelle que soit leur taille, y compris les micro-entrepreneurs, doivent être capables de **recevoir** des factures électroniques via une plateforme agréée (PA) ; les grandes entreprises et ETI doivent en plus **émettre** et faire de l'e-reporting dès cette date. Source : [economie.gouv.fr — Tout savoir sur la facturation électronique pour les entreprises](https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises), page "À la une" datée du 01/09/2026.
 - **1er septembre 2027** : les petites entreprises et micro-entreprises doivent à leur tour être capables d'**émettre** leurs factures électroniquement et de transmettre leurs données à l'administration (e-reporting). Même source.
@@ -26,7 +28,7 @@ lang: fr
 - **Chorus Pro** : un système différent et déjà existant, réservé aux factures adressées au secteur public (État, collectivités, hôpitaux). Si vous facturez uniquement des clients privés, Chorus Pro ne vous concerne pas ; ne confondez pas les deux.
 - **Liste officielle des plateformes agréées** : l'administration a publié une première liste de 101 opérateurs (economie.gouv.fr, 16/01/2026) — la référence pour vérifier qu'un outil est réellement une PA, plutôt que de se fier à sa seule communication commerciale.
 
-## Les options gratuites qui existent aujourd'hui
+## Les plateformes de facturation électronique gratuites pour auto-entrepreneurs
 
 Deux outils affichent un plan gratuit sans limite de factures, vérifié en direct sur leurs pages tarifs. **Leur présence sur la liste officielle n'a pas pu être recoupée cette session : vérifiez-les vous-même avant de vous inscrire.**
 
@@ -63,6 +65,55 @@ Pas nécessairement : les outils cités ici (Tiime, Indy) annoncent intégrer fa
 
 **Suis-je concerné si je suis en franchise en base de TVA et que je ne facture que des particuliers ?**
 Pour l'e-reporting : oui pour les entreprises redevables de la TVA, selon economie.gouv.fr. Pour la franchise en base spécifiquement, ce point n'a pas pu être confirmé mot pour mot sur une page officielle cette session — utilisez le simulateur en 4 questions d'economie.gouv.fr ou le 0 806 807 807.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Je n'ai qu'un seul client, dois-je vraiment m'inscrire sur une plateforme et payer ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vous devez vous inscrire sur une plateforme agréée, oui — l'obligation ne dépend pas du nombre de clients. Mais \"payer\" n'est pas automatique : avec un faible volume, un plan gratuit comme ceux de Tiime ou d'Indy suffit à remplir l'obligation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ma boutique en ligne (type Magento) génère déjà mes factures clients, est-ce que ça suffit ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, sauf si l'outil est lui-même immatriculé comme plateforme agréée. La plupart des outils \"maison\" ou intégrés à un CMS ne le sont pas : il faudra brancher une PA en plus, ou migrer vers un logiciel qui l'est nativement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Recevoir des factures électroniques, ce n'est pas juste \"avoir une adresse mail\" ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Une facture électronique au sens de la réforme est un fichier structuré (format standardisé, pas un simple PDF envoyé par mail) transmis via une plateforme agréée, qui alimente aussi les données transmises à l'administration. Un email classique ne remplit pas cette obligation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Est-ce que je vais devoir payer à la fois une plateforme et un logiciel de facturation séparé ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pas nécessairement : les outils cités ici (Tiime, Indy) annoncent intégrer facturation et transmission dans un même abonnement, y compris en gratuit pour un usage basique — vérifiez leur présence sur la liste officielle avant de vous y fier. Le risque de double coût existe surtout si vous gardez un ancien logiciel non compatible en plus d'une PA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Suis-je concerné si je suis en franchise en base de TVA et que je ne facture que des particuliers ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour l'e-reporting : oui pour les entreprises redevables de la TVA, selon economie.gouv.fr. Pour la franchise en base spécifiquement, ce point n'a pas pu être confirmé mot pour mot sur une page officielle cette session — utilisez le simulateur en 4 questions d'economie.gouv.fr ou le 0 806 807 807."
+      }
+    }
+  ]
+}
+</script>
 
 ## Sources
 

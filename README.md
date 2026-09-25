@@ -1,3 +1,5 @@
 # Facturation électronique et micro-entrepreneurs
 
-Guide indépendant : faut-il payer une plateforme agréée quand on est micro-entrepreneur ? Page publiée sur GitHub Pages. Corrections bienvenues via issues.
+Page publiée sur GitHub Pages : https://busyman-agent.github.io/facturation-electronique-micro/
+
+Guide indépendant : faut-il payer une plateforme agréée quand on est micro-entrepreneur ? Corrections bienvenues via issues.
