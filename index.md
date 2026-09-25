@@ -12,16 +12,16 @@ Vous êtes micro-entrepreneur, vous facturez un ou deux clients, sans TVA, et vo
 
 ## Suis-je vraiment obligé, et à partir de quand ?
 
-- **1er septembre 2026** : toutes les entreprises, micro-entrepreneurs compris, doivent pouvoir **recevoir** des factures électroniques via une plateforme agréée. Les grandes entreprises et les ETI doivent en plus émettre et faire de l'e-reporting dès cette date. Source : [economie.gouv.fr, Tout savoir sur la facturation électronique](https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises).
-- **1er septembre 2027** : les petites entreprises et les micro-entreprises doivent à leur tour **émettre** leurs factures électroniquement et transmettre leurs données de ventes à l'administration (e-reporting). Même source.
-- **Pas de sanction en 2026** : le ministère de l'Économie présente le 1er septembre 2026 comme « un coup d'envoi, et non une date couperet » et annonce une « approche de bienveillance et de tolérance » pour les entreprises en retard (communiqué de presse du 01/09/2026).
+- **1er septembre 2026** : « toutes les entreprises quelle que soit leur taille [...] devront recevoir leurs factures sous forme électronique », micro-entrepreneurs compris. Les grandes entreprises et les ETI doivent en plus émettre et faire de l'e-reporting dès cette date. Source : [impots.gouv.fr, FAQ « À partir de quand suis-je concerné ? »](https://www.impots.gouv.fr/professionnel/questions/partir-de-quand-suis-je-concerne-par-la-reforme-de-la-facturation), mise à jour le 16/01/2026.
+- **1er septembre 2027** : l'émission des factures électroniques et l'e-reporting deviennent obligatoires « pour les petites et moyennes entreprises ainsi que pour les micro-entreprises ». Même source.
+- **Pas de sanction en 2026** : la ministre présente le 1er septembre 2026 ainsi : « c'est un coup d'envoi, et non une date couperet. Au cours des prochains mois, notre priorité sera l'accompagnement : aucune sanction ne sera appliquée en 2026. » Source : [communiqué de presse du ministère, 01/09/2026](https://presse.economie.gouv.fr/la-facturation-demarre-aujourdhui-priorite-a-laccompagnement-des-entreprises/).
 - **Franchise en base de TVA : concernée.** La FAQ officielle d'impots.gouv.fr répond à la question « Franchise en base, micro-entrepreneur ou auto-entrepreneur : suis-je concerné ? » ainsi : *« La réforme s'applique à tous les assujettis à la TVA, qu'ils soient redevables ou non de la TVA (par exemple le franchisé en base). [...] Vous êtes donc soumis en votre qualité d'assujetti, même non redevable, aux obligations d'émission et de réception de factures électroniques et à la transmission à l'administration de données. »* Source : [impots.gouv.fr, FAQ franchise en base](https://www.impots.gouv.fr/professionnel/questions/franchise-en-base-micro-entrepreneur-ou-auto-entrepreneur-suis-je-concerne), mise à jour le 16/01/2026.
 - **Clients particuliers (B2C)** : pas de facture électronique à leur envoyer, mais vous devrez transmettre à l'administration les données de ces ventes (e-reporting), à partir de septembre 2027 pour une micro-entreprise. Source : [impots.gouv.fr, FAQ clients entreprises et particuliers](https://www.impots.gouv.fr/professionnel/questions/mes-clients-sont-la-fois-des-entreprises-et-des-particuliers-par-quel).
-- **Un doute sur votre cas ?** L'administration a ouvert un numéro national, le **0 806 807 807**, et un [test en quelques questions](https://www.impots.gouv.fr/professionnel/la-facturation-electronique-quest-ce-que-ca-change-pour-moi) sur impots.gouv.fr.
+- **Un doute sur votre cas ?** La FAQ officielle renvoie à un [test en quelques questions](https://www.impots.gouv.fr/professionnel/la-facturation-electronique-quest-ce-que-ca-change-pour-moi) sur impots.gouv.fr.
 
 ## Le vocabulaire, sans jargon
 
-- **Plateforme agréée (PA)**, appelée PDP jusqu'en 2025 : un logiciel privé immatriculé par la DGFiP pour émettre, transmettre et recevoir vos factures électroniques. Vous devez en choisir une. La [liste officielle](https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees) est publiée sur impots.gouv.fr ; c'est elle qui fait foi, pas le discours commercial d'un éditeur.
+- **Plateforme agréée (PA)**, appelée PDP jusqu'en 2025 : « un opérateur de dématérialisation immatriculé par l'État » pour émettre, transmettre et recevoir vos factures électroniques. Vous devez en choisir une. La [liste officielle](https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees) publiée sur impots.gouv.fr distingue les opérateurs « satisfaisant à l'ensemble des conditions, incluant les tests d'interopérabilité » de ceux « en attente de leur immatriculation définitive ». C'est elle qui fait foi, pas le discours commercial d'un éditeur.
 - **Solution compatible** : un logiciel qui n'est pas agréé lui-même mais passe par une plateforme agréée pour transmettre vos factures. Si votre outil actuel se dit « compatible », il doit être branché à une PA, sinon cela ne suffit pas.
 - **E-reporting** : la transmission à l'administration des données de vos ventes (montant, TVA, paiement) là où la facture électronique ne s'applique pas, notamment vos ventes à des particuliers.
 - **Facture électronique** : un fichier structuré au format normalisé, transmis par une plateforme agréée. Un PDF envoyé par mail n'en est pas une, l'administration le précise dans sa FAQ.
@@ -29,13 +29,13 @@ Vous êtes micro-entrepreneur, vous facturez un ou deux clients, sans TVA, et vo
 
 ## Les plateformes agréées gratuites pour auto-entrepreneurs
 
-Deux plateformes figurent sur la liste officielle de la DGFiP et proposent un plan gratuit sans limite de factures. Tarifs et présence sur la liste vérifiés le 25 septembre 2026.
+Deux plateformes figurent dans la liste officielle des opérateurs « satisfaisant à l'ensemble des conditions, incluant les tests d'interopérabilité » (impots.gouv.fr, liste mise à jour le 22/09/2026) et proposent un plan gratuit sans limite de factures. Tarifs et présence sur la liste vérifiés le 25 septembre 2026.
 
-| Plateforme | Plan gratuit | Ce qui reste payant | Plans payants | Agrément DGFiP | Tarifs |
+| Plateforme | Plan gratuit | Ce qui reste payant | Plans payants | Liste officielle impots.gouv.fr | Tarifs |
 |---|---|---|---|---|---|
-| Tiime | Facturation électronique, factures et devis illimités, suivi des paiements | Comptabilité et déclarations automatisées | Smart 17,99 €/mois, Business 24,99 €/mois | Immatriculée le 18/12/2025 (Tiime PDP) | [tiime.fr/tarifs](https://www.tiime.fr/tarifs) |
-| Indy | Plan Essentiel : facturation électronique, factures et devis illimités | Déclarations fiscales (URSSAF, TVA, DAS2) | Plus dès 9 €/mois HT, Premium 15 à 49 €/mois HT | Immatriculée le 09/01/2026 | [indy.fr/tarifs](https://www.indy.fr/tarifs) |
-| Freebe | 30 jours d'essai seulement | Tout après l'essai | 12,50 €/mois ou 150 €/an | Absente de la liste officielle au 25/09/2026 | [freebe.me/tarifs](https://www.freebe.me/tarifs) |
+| Tiime | Facturation électronique, factures et devis illimités, suivi des paiements | Comptabilité et déclarations automatisées | Smart 17,99 €/mois, Business 24,99 €/mois | Oui, « Tiime PDP », numéro d'immatriculation délivré le 18/12/2025 | [tiime.fr/tarifs](https://www.tiime.fr/tarifs) |
+| Indy | Plan Essentiel : facturation électronique, factures et devis illimités | Déclarations fiscales (URSSAF, TVA, DAS2) | Plus dès 9 €/mois HT, Premium 15 à 49 €/mois HT | Oui, « Indy », numéro d'immatriculation délivré le 09/01/2026 | [indy.fr/tarifs](https://www.indy.fr/tarifs) |
+| Freebe | 30 jours d'essai seulement | Tout après l'essai | 12,50 €/mois ou 150 €/an | Absente des deux listes au 25/09/2026 | [freebe.me/tarifs](https://www.freebe.me/tarifs) |
 
 Pour un ou deux clients et quelques factures par mois, le plan gratuit de Tiime ou d'Indy couvre l'obligation légale : réception dès 2026, émission et e-reporting dès 2027. Vous ne payez que si vous voulez en plus automatiser votre comptabilité ou vos déclarations.
 
@@ -115,11 +115,11 @@ Oui. La FAQ d'impots.gouv.fr précise que la réforme s'applique aux assujettis 
 
 ## Sources
 
-- [economie.gouv.fr, Tout savoir sur la facturation électronique pour les entreprises](https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises) (calendrier, définitions, numéro national)
-- Communiqué de presse du ministère de l'Économie, presse.economie.gouv.fr, 01/09/2026 (« coup d'envoi, non une date couperet », pas de sanction en 2026)
+- [impots.gouv.fr, FAQ « À partir de quand suis-je concerné par la réforme de la facturation électronique ? »](https://www.impots.gouv.fr/professionnel/questions/partir-de-quand-suis-je-concerne-par-la-reforme-de-la-facturation), mise à jour le 16/01/2026 (calendrier)
+- [Communiqué de presse du ministère, « La facturation électronique démarre aujourd'hui »](https://presse.economie.gouv.fr/la-facturation-demarre-aujourdhui-priorite-a-laccompagnement-des-entreprises/), 01/09/2026 (« coup d'envoi, et non une date couperet », aucune sanction en 2026)
 - [impots.gouv.fr, FAQ « Franchise en base, micro-entrepreneur ou auto-entrepreneur : suis-je concerné ? »](https://www.impots.gouv.fr/professionnel/questions/franchise-en-base-micro-entrepreneur-ou-auto-entrepreneur-suis-je-concerne), mise à jour le 16/01/2026
 - [impots.gouv.fr, FAQ « Mes clients sont à la fois des entreprises et des particuliers »](https://www.impots.gouv.fr/professionnel/questions/mes-clients-sont-la-fois-des-entreprises-et-des-particuliers-par-quel), mise à jour le 16/01/2026
-- [impots.gouv.fr, liste des plateformes agréées](https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees) (fichier PDF, consulté le 25/09/2026 : Tiime PDP immatriculée le 18/12/2025, Indy le 09/01/2026)
+- [impots.gouv.fr, liste des plateformes agréées](https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees), page mise à jour le 22/09/2026, fichier PDF « opérateurs satisfaisant à l'ensemble des conditions » consulté le 25/09/2026 (Tiime PDP : numéro délivré le 18/12/2025 ; Indy : 09/01/2026)
 - [Tiime, tarifs](https://www.tiime.fr/tarifs), [Indy, tarifs](https://www.indy.fr/tarifs), [Freebe, tarifs](https://www.freebe.me/tarifs), consultés le 25/09/2026
 
 ---
